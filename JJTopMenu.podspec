@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
     'Jhon Jaiver Lopez' => 'jaiversin@gmail.com'
   }
 
-  s.platform     = :ios, '7.0'
-  s.ios.deployment_target = '7.0'
+  s.platform     = :ios, '6.0'
+  s.ios.deployment_target = '6.0'
 
   s.source = {
     :git => 'https://github.com/jaiversin/JJTopMenu.git',
